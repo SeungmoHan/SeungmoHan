@@ -9,12 +9,10 @@
 ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 <img alt="C Sharp" src 
 ="https://img.shields.io/badge/CSharp-4479A1.svg?&style=for-the-badge&logo=CSharp&logoColor=white"/>
-
 <img alt="MySql" src 
-="https://img.shields.io/badge/MySql-333333.svg?&style=for-the-badge&logo=MySql&logoColor=white"/>
+="https://img.shields.io/badge/MySql-4479A1.svg?&style=for-the-badge&logo=MySql&logoColor=white"/>
 <img alt="Redis" src 
 ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
-
 <img alt="Python" src 
 ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
@@ -28,6 +26,8 @@
 
 <img alt="Unity" src 
 ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
+
+
 
 <!--
 **SeungmoHan/SeungmoHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
