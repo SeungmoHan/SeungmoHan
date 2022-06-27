@@ -35,8 +35,11 @@
 # Blog
 ## https://univ-developer.tistory.com/
 
-Linked In
+# Linked In
 ## https://www.linkedin.com/in/seungmo-han-aa102823a/
+
+## how to connect
+### E-mail : gkstmdah97@naver.com
 
 <!--
 **SeungmoHan/SeungmoHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
