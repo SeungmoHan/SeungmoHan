@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+https://img.shields.io/badge/<ANDROID>-<HELLO>-<RED>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
