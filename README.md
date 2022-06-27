@@ -11,7 +11,6 @@
 ="https://img.shields.io/badge/CSharp-4479A1.svg?&style=for-the-badge&logo=CSharp&logoColor=white"/>
 <img alt="MySql" src 
 ="https://img.shields.io/badge/MySql-333333.svg?&style=for-the-badge&logo=MySql&logoColor=white"/>
-
 <img alt="Redis" src 
 ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
 <img alt="Python" src 
@@ -20,7 +19,6 @@
 ="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
 <img alt="Visual Studio Code" src 
 ="https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-
 <img alt="Visual Studio" src 
 ="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
 <img alt="Unity" src 
