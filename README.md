@@ -4,8 +4,7 @@
 # develop stack 
 
 
-<img alt = "C++" src
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>/>
+<img alt="이미지명" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
 
 
 
