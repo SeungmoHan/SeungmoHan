@@ -5,12 +5,15 @@
 
 
 <img alt="C++" src 
-="https://img.shields.io/badge/C++-000000.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
-<img alt="CSharp" src 
+="https://img.shields.io/badge/C++-000000.svg?&style=for-the-badge&logo=C++&logoColor=gray"/>
+<img alt="C Sharp" src 
+="https://img.shields.io/badge/CSharp-000000.svg?&style=for-the-badge&logo=CSharp&logoColor=gray"/>
+<img alt="MySql" src 
+="https://img.shields.io/badge/MySql-4479A1.svg?&style=for-the-badge&logo=MySql&logoColor=gray"/>
+<img alt="Redis" src 
+="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=gray"/>
+<img alt="C Sharp" src 
 ="https://img.shields.io/badge/CSharp-000000.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
-
-
-
 <!--
 **SeungmoHan/SeungmoHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
