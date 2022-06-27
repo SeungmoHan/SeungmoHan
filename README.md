@@ -6,6 +6,7 @@
 
 <img alt="C++" src 
 ="https://img.shields.io/badge/C++-333333.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
+
 <img alt="C Sharp" src 
 ="https://img.shields.io/badge/CSharp-333333.svg?&style=for-the-badge&logo=CSharp&logoColor=white"/>
 <img alt="MySql" src 
@@ -14,6 +15,10 @@
 ="https://img.shields.io/badge/Redis-333333.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
 <img alt="Windows" src 
 ="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
+<img alt="Python" src 
+="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
+
 <!--
 **SeungmoHan/SeungmoHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
