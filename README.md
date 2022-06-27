@@ -5,12 +5,8 @@
 
 
 <img alt="C++" src 
-="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white" src
-="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=CSharp&logoColor=white" src
-
-
-
-
+="https://img.shields.io/badge/C++-#000000.svg?&style=for-the-badge&logo=C++&logoColor=white" src
+="https://img.shields.io/badge/CSharp-#000000.svg?&style=for-the-badge&logo=CSharp&logoColor=white"
 />
 
 
