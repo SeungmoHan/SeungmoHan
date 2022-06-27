@@ -1,5 +1,6 @@
 # Hello, World!👋👋👋
-
+### I'm Game Server Developer
+### Welcome My Github!
 
 # Skills 
 
@@ -28,7 +29,8 @@
 ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
 
 
-
+## - 🔭 I’m currently looking for work 
+## - 🌱 I’m currently learning C++, Game Server, Windows OS
 
 # Blog
 ## https://univ-developer.tistory.com/
