@@ -28,8 +28,8 @@
 <img alt="Unity" src 
 ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
 
-
-## - 🔭 I’m currently looking for work 
+I am currently working as a game server developer in Pangyo
+## - 🔭 I’m currently working as a game server developer in Pangyo
 ## - 🌱 I’m currently learning C++, Game Server, Windows OS
 
 # Blog
@@ -48,12 +48,12 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Webzen.Inc
+- 🌱 I’m currently learning C++, GameServer, Windows OS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about Everything what i developed
+- 📫 How to reach me: gkstmdah97@naver.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
