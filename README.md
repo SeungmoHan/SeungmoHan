@@ -28,7 +28,7 @@
 <img alt="Unity" src 
 ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
 
-I am currently working as a game server developer in Pangyo
+
 ## - 🔭 I’m currently working as a game server developer in Pangyo
 ## - 🌱 I’m currently learning C++, Game Server, Windows OS
 
