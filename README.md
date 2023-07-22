@@ -12,6 +12,8 @@
 ="https://img.shields.io/badge/CSharp-4479A1.svg?&style=for-the-badge&logo=CSharp&logoColor=white"/>
 <img alt="MySql" src 
 ="https://img.shields.io/badge/MySql-333333.svg?&style=for-the-badge&logo=MySql&logoColor=white"/>
+<img alt="MSSql" src 
+="https://img.shields.io/badge/MSSql-11AADD.svg?&style=for-the-badge&logo=MySql&logoColor=white"/>
 <img alt="Redis" src 
 ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
 <img alt="Python" src 
