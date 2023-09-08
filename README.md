@@ -40,6 +40,10 @@
 # Linked In
 ## https://www.linkedin.com/in/seungmo-han-aa102823a/
 
+#Repositories
+## https://github.com/SeungmoHan/GameServerProject
+## https://github.com/SeungmoHan/univ_dev-ServerCore
+
 ## how to connect
 ### E-mail : gkstmdah97@naver.com
 
