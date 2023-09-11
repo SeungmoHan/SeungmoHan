@@ -1,6 +1,6 @@
 # Hello, World!👋👋👋
 ### I'm Game Server Developer
-### Welcome My Github!
+### Welcome To My Github!
 
 # Skills 
 
