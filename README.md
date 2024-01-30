@@ -1,6 +1,6 @@
-# Hello, World!👋👋👋
-### I'm Game Server Developer
-### Welcome To My Github!
+# 안녕하세요!👋👋👋
+### 게임서버 개발자 univ-dev 입니다
+### 방문해주셔서 감사합니다.
 
 # Skills 
 
@@ -31,8 +31,8 @@
 ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
 
 
-## - 🔭 I’m currently working as a game server developer in Pangyo
-## - 🌱 I’m currently learning C++, Game Server, Windows OS
+## - 🔭 판교 근무중
+## - 🌱 C++, 게임서버, Windows OS 공부중
 
 # Blog
 ## https://univ-developer.tistory.com/
